@@ -27,7 +27,7 @@ My final report will include the following insights:
 
 ### Purchasing Analysis (Gender)
 
-* The following each broken down by gender
+* The following broken down by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -35,7 +35,7 @@ My final report will include the following insights:
 
 ### Age Demographics
 
-* The following each broken down in age groups of 4 years (i.e. <10, 10-14, 15-19, etc.):
+* The following broken down in age groups of 4 years (i.e. <10, 10-14, 15-19, etc.):
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
