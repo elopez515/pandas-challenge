@@ -67,6 +67,8 @@ My final report will include the following insights:
   * Item Price
   * Total Purchase Value
 
-### Written Description
-
-My written description will include a written explanation of three observable trends based on the data.
+## Final Observations
+* The community of gamers primarily consists of male players (84%) which account for roughly 83% of total sales. 
+* Based on our age group data we determined that players between the ages of 15 to 29 account for slightly more than 81% of the customer base and they account for about 77% of total purchases and revenue.
+* Based on the total purchases made and the total number of players we can conclude that the average player makes about 1.35 purchases. 
+* Final Critic (Item ID: 92), Oathbreaker, Last Hope of the Breaking Storm (Item ID: 178), and Fiery Glass Crusader (Item ID: 142) can be found in both the top 5 most popular and most profitable items list. 
